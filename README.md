@@ -1,13 +1,10 @@
-<img width="2024" height="990" alt="cwdev-banner" src="https://github.com/user-attachments/assets/ea5ba1d8-8edc-45ec-bfba-7c9e922827d3" />
-
-
 <p align="center">
   <a href="https://cloudwerxlab.com">
     <img
-      width="1254"
-      height="1254"
+      width="2024"
+      height="990"
       alt="CLOUDWERX LAB"
-      src="https://github.com/user-attachments/assets/2db6a3bc-8709-4670-be3e-b6a0afc7f005"
+      src="https://github.com/user-attachments/assets/ea5ba1d8-8edc-45ec-bfba-7c9e922827d3"
     />
   </a>
 </p>
@@ -74,6 +71,17 @@
       height="1254"
       alt="DiffuGen"
       src="https://github.com/user-attachments/assets/547dcb0b-32a8-473a-8e78-6338c01b7707"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cloudwerxlab.com">
+    <img
+      width="1254"
+      height="1254"
+      alt="CLOUDWERX LAB"
+      src="https://github.com/user-attachments/assets/2db6a3bc-8709-4670-be3e-b6a0afc7f005"
     />
   </a>
 </p>
