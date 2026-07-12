@@ -10,6 +10,17 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/CLOUDWERX-DEV/X-Tracks">
+    <img
+      width="1254"
+      height="1254"
+      alt="X-Tracks"
+      src="https://github.com/user-attachments/assets/fc5814a7-d431-4c2e-82f0-ffcc6f6eefcc"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/CLOUDWERX-DEV/SauceBox">
     <img
       width="1254"
